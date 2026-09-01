@@ -26,7 +26,7 @@
 #define RAISE  2
 #define ADJUST 3
 #define FUNC 4
-
+ 
 / {
 
         keymap {
